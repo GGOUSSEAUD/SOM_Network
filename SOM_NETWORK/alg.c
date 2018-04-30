@@ -1,9 +1,9 @@
 #include "alg.h"
 
 
-/*Made by Gaëtan GOUSSEAUD , last edited 10/05/17, my email: gousseaud.gaetan@gmail.com*/
+/*Made by Gaëtan GOUSSEAUD , last edited 10/05/17, my email: gousseaud.gaetan.pro@gmail.com*/
 
-//Profressor : jjmariage@free.fr
+//Professor : jjmariage@free.fr
 
 //This define holds the number of different nametags in the database (temporary depending on time)
 #define NT_INDEX_SIZE 3
